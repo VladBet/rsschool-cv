@@ -17,11 +17,9 @@ b=2;
 c=a+b;
 ```
 ## Work experience:
-|Company|Position|Years|
-|:----:|:-------:|:----:|
-|Belarusneft|Translator|2008 - 2013|
-|Gas-Institute|Translator|2014 - 2014|
-|Rosneft|Translator|2015 - 2021|
+Belarusneft - Translator - 2008-2013  
+Gas-Institute - Translator - 2014-2014  
+Rosneft  - Translator -  2015-2021  
 ## Education:
 2003 - graduated from Minsk State Linguistic University
 ## Languages:
