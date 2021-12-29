@@ -3,7 +3,7 @@
 ## Contacts:
 * Email: betancourt.vladimir@gmail.com  
 * Discord: bet#6287
-* Tel: +375 (29) 219xxxxx
+* Tel: +375 (29) 2196920
 ___
 ## About myself:
 I have worked as a Spanish translator for over 15 years in various companies, mainly in the oil and gas industry. Now I want to try myself in a new field - the IT industry
